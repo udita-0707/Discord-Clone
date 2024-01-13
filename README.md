@@ -1,2 +1,2 @@
 # Discord-Clone
-A discord clone using simple HTML and CSS
+A discord clone using simple HTML. Currently it is under process.
